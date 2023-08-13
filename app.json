@@ -77,6 +77,11 @@
          "description": "Get bot token from @BotFather on TG",
          "required": true,
          "value": ""
-      }
+          },
+    "UPSTREAM_REPO": {
+      "description": "رمز السورس لا تغيره ابدا",
+      "value": "https://github.com/asaaqaa/FallenRobot",
+      "required": false
+    }
    }
 }
