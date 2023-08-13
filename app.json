@@ -9,7 +9,7 @@
          "manager",
          "Fallen"
       ],   
-   "repository": "https://github.com/AnonymousX1025/FallenRobot",
+   "repository": "https://github.com/asaaqaa/FallenRobot",
    "stack": "heroku-22",
    "addons": [
       {
@@ -51,20 +51,15 @@
       "EVENT_LOGS": {
          "description": "Event logs channel to note down important bot level events, recommend to make this public. ex: '-123456'",
          "required": true,
-         "value": ""
-      },
-      "MONGO_DB_URI": {
-         "description": "Required for database connections.",
-         "required": true,
-         "value": ""
+         "value": "" 
       },
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": "1356469075"
+         "value": "6228635168"
       },
       "START_IMG": {
-         "description": "Telegraph link of the image which will be shown at start command.",
+         "description": " link Telegram of the image which will be shown at start command.",
          "required": true,
          "value": ""
       },
